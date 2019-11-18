@@ -21,7 +21,7 @@ body {
 }
 
 h1 {
-    font-family: yellowtail;
+    font-family: yellowtail !important;
     font-style: normal;
     font-weight: 400;
     font-size: 3em;
@@ -41,13 +41,8 @@ h1 {
     background-color: #FFFFFF;
 }
 
-
-
-
-
-
 h2 {
-    font-family: yellowtail;
+    font-family: yellowtail !important;
     font-style: normal;
     font-weight: 400;
     font-size: 2em;
